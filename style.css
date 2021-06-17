@@ -3,3 +3,28 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: right;
+}
+
+# featured-property{
+  background-color: gray;
+}
+
+nav a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: gray;
+}
+
+
+
+#details div{
+  float: left;
+}
+
+.centered {
+  display: block;
+  margin: auto;
+}
